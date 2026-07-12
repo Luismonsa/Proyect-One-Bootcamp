@@ -1,5 +1,7 @@
 # Proyect-One-Bootcamp
-Proyecto de análisis y aprendizaje Desarrollo Web Fullstack
+Proyecto de análisis y aprendizaje: Desarrollo Web Fullstack
+
+English version: [README.en.md](README.en.md) — Español: [README.es.md](README.es.md)
 
 This is a Next.js project bootstrapped with create-next-app.
 
